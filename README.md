@@ -11,7 +11,7 @@
 
 ## 🐍 My Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/Mai-sha-stack/Mai-sha-stack/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Mai-sha-stack/Mai-sha-stack/output/github-contribution-grid-snake-dark.svg)
 <!--
 **Mai-sha-stack/Mai-sha-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
