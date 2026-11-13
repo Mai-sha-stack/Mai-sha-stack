@@ -17,9 +17,10 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Mai-sha-stack
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          outputs:
+                            dist/github-contribution-grid-snake.svg?color_snake=%23ff69b4
+                            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23ff69b4
+            
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.2.0
